@@ -24,6 +24,7 @@
 | Quintero Montalvo     | [luisqm](http://github.com/luisqm/POO)|
 | García Gabriel        | [GarciaG1](https://github.com/GarciaG1/POO1)|
 | Medina                | [M3D1N4](https://github.com/M3D1N4/Dorya-poo)|
+| Picos Quezada         | [PicosErick](https://github.com/PicosErick/POO)|
 
 
 # Actividades 
@@ -31,6 +32,8 @@
 Fechas de entrega son en horario local de Tijuana.
 
 ## Crear Repositorio en Github (10 de Septiembre 9:00 horas) 
+
+test
 
 1. Debes crear una cuenta en GitHub e instalar git localmente.
 2. Crea un repositorio público llamado POO. Agrega los archivos *.gitignore* y *README.md*.
@@ -51,7 +54,6 @@ Crea un nueva carpeta en el repositorio *POO* llamada *Setup* la cual incluya un
 2. Instalación y configuración de Visual Studio Code para C#.
 3. Instalación de git. conectado a tu cuenta de GitHub y VSC.
 
-[Documento de Apoyo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Programa básico Películas (13 de Septiembre 9:00 horas)
 
